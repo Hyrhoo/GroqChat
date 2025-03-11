@@ -4,6 +4,8 @@ This is a project to use [groq](https://groq.com/) api to make an AI ChatBot.
 
 The goal is to learn basic APIs usage and learn Vue.js with TypeScript (and also to have fun).
 
+Chek the [TODO.md](https://github.com/Hyrhoo/GroqChat/blob/main/TODO.md) file.
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
