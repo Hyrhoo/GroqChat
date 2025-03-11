@@ -1,15 +1,23 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Project Description</h1>
+    <p>
+      This project aim to creat an AI chat bot using the
+      <a href="https://groq.com/">Groq</a> API.
+    </p>
   </div>
 </template>
 
 <style>
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 @media (min-width: 1024px) {
   .about {
     min-height: 100vh;
-    display: flex;
-    align-items: center;
+    justify-content: center;
   }
 }
 </style>

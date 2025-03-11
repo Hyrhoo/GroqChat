@@ -1,6 +1,8 @@
 # GroqChat
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a project to use [groq](https://groq.com/) api to make an AI ChatBot.
+
+The goal is to learn basic APIs usage and learn Vue.js with TypeScript (and also to have fun).
 
 ## Recommended IDE Setup
 
