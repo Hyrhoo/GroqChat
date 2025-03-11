@@ -1,13 +1,24 @@
 # ToDo List
 
-## Views
-- [ ] ask api key if not found
-- [ ] chat view
-- [ ] chat selection
+### API
+- [ ] Check for .env file with API key
+- [ ] Ask for API key
 
-## Component
-- [ ] messages
+### Chat
+- [ ] Central message container with revers scroll
+- [ ] Message bubbles
+- [ ] Message editing
+- [ ] Input box
+- [ ] Message streaming
+- [ ] Edit chat settings
 
-## Features
-- [ ] research in chat
-- [ ] chat pre setings / personality
+### Sidebar
+- [ ] Chat list
+- [ ] Chat search
+- [ ] Rename/delete chat
+- [ ] New chat
+
+### Settings
+- [ ] Save/load preset
+- [ ] Set default preset for new chat
+- [ ] Personality/system prompt
