@@ -11,6 +11,8 @@
 - [ ] Input box
 - [ ] Message streaming
 - [ ] Edit chat settings
+- [ ] Markdown support
+- [ ] Copy to clipboard
 
 ### Sidebar
 - [ ] Chat list
@@ -22,3 +24,6 @@
 - [ ] Save/load preset
 - [ ] Set default preset for new chat
 - [ ] Personality/system prompt
+
+### Other features
+- [ ] Tags
